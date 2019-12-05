@@ -1,5 +1,4 @@
 https://adventofcode.com/2019/day/1
-
 # Part 1
 
 At the first Go / No Go poll, every Elf is Go until the Fuel Counter-Upper. They haven't determined the amount of fuel required yet.
